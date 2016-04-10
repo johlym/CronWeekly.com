@@ -6,9 +6,10 @@ Please fill in the following information.
 2. Your company name:
 3. What [advertising pack](https://github.com/mattiasgeniar/CronWeekly.com) would you want:
 4. When would you like to start advertising:
-5. What link/service do you want to promote:
-6. Optional: a text to be included with the link:
-7. Preferred payment method: banktransfer or other
+5. Preferred payment method: banktransfer or other
+6. What link/service do you want to promote:
+7. Optional: a text to be included with the link:
+
 
 ## TODO
 - [ ] Determine a date to start advertising
