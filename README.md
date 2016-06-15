@@ -24,7 +24,7 @@ Those AdBlockers don't work in newsletters: we link based on textual links and p
 If your link is included in the newsletter, you can be sure that everyone who opened it has read your message.
 
 Some numbers:
-* 1300 subscribers (as of 10/04/2016)
+* 1700 subscribers (as of 15/06/2016)
 * 60% confirmed open rate (in reality this is probably 80-85% as the audience is tech-savvy enough to block the tracking pixels)
 
 For targetted advertising, newsletters make a lot more sense than AdSense, DoubleClick, Facebook or Twitter.
