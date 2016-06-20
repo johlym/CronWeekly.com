@@ -1,6 +1,6 @@
 # cron.weekly newsletter
 
-[cron.weekly](https://wwww.cronweekly.com) is a weekly newsletter for Linux sysadmins and open source users. It features the latest news, projects, tools & tutorials.
+[cron.weekly](https://www.cronweekly.com) is a weekly newsletter for Linux sysadmins and open source users. It features the latest news, projects, tools & tutorials.
 
 The newsletter is sent every Sunday.
 
